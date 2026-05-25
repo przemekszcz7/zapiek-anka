@@ -1,0 +1,6 @@
+{
+  "name": "Zapiek-ANKA Gostynin",
+  "description": "Strona internetowa legendarnego lokalu Zapiek-ANKA w Gostyninie. Najlepsze zapiekanki, hamburgery i hot-dogi z pieca.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
