@@ -110,11 +110,6 @@ export default function App() {
           <p>
             &copy; {new Date().getFullYear()} Zapiek-ANKA Gostynin. Wszelkie prawa zastrzeżone.
           </p>
-          <div className="flex justify-center items-center gap-4 text-[10px] text-stone-600">
-            <span>Strona przystosowana do urządzeń mobilnych 📱</span>
-            <span>|</span>
-            <span>Real-time Status Checker ⚡</span>
-          </div>
         </div>
       </footer>
 
